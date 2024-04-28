@@ -17,7 +17,6 @@ export function WelcomeCard() {
         your to-do list, and track progress all in one place. Boost productivity
         and achieve your goals effortlessly.
       </Description>
-      <GetStartedButton>Get started</GetStartedButton>
     </Wrapper>
   );
 }
